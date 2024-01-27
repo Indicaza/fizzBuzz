@@ -9,9 +9,14 @@ A JavaScript implementation of the classic FizzBuzz problem.
 
 ## Running the Application
 
+```
 npm install
 node index.js
+```
+
 
 ## Running Tests
 
+```
 npm test
+```
